@@ -17,7 +17,7 @@ This project implements a **Genetic Algorithm (GA)** to optimize the **Rastrigin
 Install dependencies using:
 ```bash
 pip install numpy numba
-
+```
 ---
 
 ## 📌 Installation Guide
