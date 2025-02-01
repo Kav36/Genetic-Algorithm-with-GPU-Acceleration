@@ -17,3 +17,12 @@ This project implements a **Genetic Algorithm (GA)** to optimize the **Rastrigin
 Install dependencies using:
 ```bash
 pip install numpy numba
+
+---
+
+## 📌 Installation Guide
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Kav36/Genetic-Algorithm-with-GPU-Acceleration.git
+cd Genetic-Algorithm-with-GPU-Acceleration
